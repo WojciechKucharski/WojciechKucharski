@@ -27,7 +27,7 @@
 * Chancellor's Scholarship
 ## Interests
 * Psychology and Psychology
-* Eureistics
+* Eristics
 * GameDev
 ## Education
 ### Bachelor's degree at Wrocław University of Science and Technology (Graduate, 2017-2021)
