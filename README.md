@@ -20,11 +20,6 @@
 * Polish - native
 * English - fluent
 * German - communicatively
-## Experience and Successes
-* On-Line multiplayer stategy game
-* Plenty of created projects
-* Part-time job as a tutor - math and programming
-* Chancellor's Scholarship
 ## Education
 ### Bachelor's degree at Wrocław University of Science and Technology (Graduate, 2017-2021)
 * Faculty: Electronics. Field of Study: Electronics. Speciality: Applied Control Electronics
