@@ -25,10 +25,6 @@
 * Plenty of created projects
 * Part-time job as a tutor - math and programming
 * Chancellor's Scholarship
-## Interests
-* Psychology and Psychology
-* Eristics
-* GameDev
 ## Education
 ### Bachelor's degree at Wrocław University of Science and Technology (Graduate, 2017-2021)
 * Faculty: Electronics. Field of Study: Electronics. Speciality: Applied Control Electronics
