@@ -16,10 +16,6 @@
 * Microprocessors - basic understanding, programming, interfaces etc.
 * Computer Networks - client/server, TCP/IP
 * Image processing and machine vision - e.g. Convolutional Neural Networks
-## Languages
-* Polish - native
-* English - fluent
-* German - communicatively
 ## Education
 ### Bachelor's degree at Wrocław University of Science and Technology (Graduate, 2017-2021)
 * Faculty: Electronics. Field of Study: Electronics. Speciality: Applied Control Electronics
